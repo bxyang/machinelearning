@@ -1,0 +1,10 @@
+http://karpathy.github.io/
+
+https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
+
+http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html
+
+Optimization Models and Applications 
+http://livebooklabs.com/keeppies/c5a5868ce26b8125
+
+http://www.mlsurveys.com/
