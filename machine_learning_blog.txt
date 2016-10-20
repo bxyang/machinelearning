@@ -8,3 +8,7 @@ Optimization Models and Applications
 http://livebooklabs.com/keeppies/c5a5868ce26b8125
 
 http://www.mlsurveys.com/
+
+
+CNTK SGD
+https://github.com/Microsoft/CNTK/wiki/Multiple-GPUs-and-machines
