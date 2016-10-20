@@ -17,3 +17,5 @@ https://www.microsoft.com/en-us/research/project/dssm/
 
 Rec
 http://www.wbrecom.com/
+
+http://aria42.com/blog/2014/12/understanding-lbfgs
