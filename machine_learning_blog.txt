@@ -12,6 +12,8 @@ http://www.mlsurveys.com/
 CNTK SGD
 https://github.com/Microsoft/CNTK/wiki/Multiple-GPUs-and-machines
 
-
 DSSM
 https://www.microsoft.com/en-us/research/project/dssm/
+
+Rec
+http://www.wbrecom.com/
