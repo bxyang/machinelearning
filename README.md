@@ -10,3 +10,5 @@ https://courses.cs.washington.edu/courses/cse599s/14sp/
 parrallel nn
 http://web.stanford.edu/group/pdplab/pdphandbook/
 
+mpi tutorial
+http://mpitutorial.com/tutorials
