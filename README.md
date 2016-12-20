@@ -12,3 +12,6 @@ http://web.stanford.edu/group/pdplab/pdphandbook/
 
 mpi tutorial
 http://mpitutorial.com/tutorials
+
+kaggle solution
+http://www.chioka.in/kaggle-competition-solutions/
