@@ -28,3 +28,6 @@ http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 
 nn
 http://neuralnetworksanddeeplearning.com/
+
+mpi
+http://www.bu.edu/tech/support/research/training-consulting/online-tutorials/mpi/
