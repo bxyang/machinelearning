@@ -15,3 +15,6 @@ http://mpitutorial.com/tutorials
 
 kaggle solution
 http://www.chioka.in/kaggle-competition-solutions/
+
+jeff dean
+1. https://www.youtube.com/watch?v=4hqb3tdk01k
