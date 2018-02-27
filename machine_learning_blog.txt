@@ -34,3 +34,6 @@ http://www.bu.edu/tech/support/research/training-consulting/online-tutorials/mpi
 
 nlp
 http://ruder.io/deep-learning-nlp-best-practices/index.html
+
+word2vec
+http://mccormickml.com/2016/04/27/word2vec-resources/
