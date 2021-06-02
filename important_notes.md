@@ -9,3 +9,12 @@ https://ieor.berkeley.edu/publication/smart-predict-then-optimize/
 Predictive and Prescriptive Methods in Operations
 Research and Machine Learning: An Optimization
 Approach
+
+
+
+https://scholar.harvard.edu/saghafian/blog/ambiguity-versus-risk-sequential-decision-making-incomplete-information-causal
+
+
+https://economics.harvard.edu/people/raj-chetty
+https://athey.people.stanford.edu/ 
+http://people.seas.harvard.edu/~samurphy/
